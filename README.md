@@ -1,4 +1,5 @@
-#Algorithm :
+<h1>Algorithm : <h1>
+  
 #-Take in a Twitter API keys
 #-Download Followers data of a specified User
 #-Gather ids of all followers of a specified account
