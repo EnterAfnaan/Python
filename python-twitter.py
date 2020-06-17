@@ -49,7 +49,7 @@ apii = TwitterAPI(consumer_key,
 
 for i in ids:
 
-    user_id = ids[i]
+    user_id = i[0]
     message_text = "Thank you for following me"
 
     event = {
